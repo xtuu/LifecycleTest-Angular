@@ -43,7 +43,7 @@ export class Pagina1Component implements
   ngOnDestroy(): void {
     console.log('ngOnDestroy');
   }
-  
+
   ngOnInit(): void {
     console.log('ngOninit')
   }
